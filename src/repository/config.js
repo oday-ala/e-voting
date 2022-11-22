@@ -1,0 +1,4 @@
+// CONTRACT_ADDRESS_LINK="https://goerli.etherscan.io/address/0xaead0dbf6088e1bdabb50bcb90fdc924d54d0a53"
+// CONTRACT_CREATOR_ADDRESS="0x9cbacf8d15cdd69971db1fb49c9f72589650f9bc"
+
+export const CONTRACT_ADDRESS = "0xaEaD0DBf6088e1BdABB50BCb90FDC924D54D0A53";
